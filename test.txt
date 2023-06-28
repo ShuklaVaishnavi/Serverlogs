@@ -1,0 +1,7 @@
+270454.ANTYA   $ lucky.s $ serialq  xoopic_0.* 243403   1   1    --  360:0 R 48:35
+270458.ANTYA   $ suruj.k $ mediumq  spot_k1.0*  76343   4   8    --  48:00 R 39:04
+270459.ANTYA   $ suruj.k $ mediumq  spot_k4.0* 196850   4   8    --  48:00 R 38:56
+270474.ANTYA   $ sagar.c $ mediumq  n16_non_l* 264967  48  15    --  48:00 R 26:45
+
+
+convert above data in to fields / array , naming f1, f2 f3 etc. using python.
